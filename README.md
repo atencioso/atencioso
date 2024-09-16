@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=audacioso&label=Profile%20views&color=0e75b6&style=flat" alt="audacioso" /> </p>
 
-- 🔭 I am currently working on **Discord Bots Development**
+- 🔭 I am currently working on **AI Developments**
 
 - 🌱 I’m currently learning **Typescript and Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/audacioso](https://github.com/atencioso)
+- 👨‍💻 All of my projects are available at [https://github.com/atencioso](https://github.com/atencioso)
 
 - 📫 How to reach me **eduardo.cardoso1@pucpr.edu.br**
 
